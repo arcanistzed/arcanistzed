@@ -1,1 +1,2 @@
-![](https://github-readme-stats.vercel.app/api?username=arcanistzed&show_icons=true&theme=dark)
+Hey 👋
+Visit [my site](https://arcanistzed.github.io/) to learn more about me and my projects!
