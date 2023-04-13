@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a Software Engineering student at the University of Ottawa, Software Developer at [The Forge VTT](https://forge-vtt.com), and incoming Engineering Release Intern at [BlackBerry](https://blackberry.com).
+My name is Daniel Thorp and I'm a Software Engineering student at the University of Ottawa, Software Developer at [The Forge VTT](https://forge-vtt.com), and incoming Engineering Release Intern at [BlackBerry](https://blackberry.com).
 
 - 🔭 I’m currently studying for exams and leading the development team at [Hack the Hill](https://hackthehill.com)
 
