@@ -1,10 +1,10 @@
 # Hello 👋
 
-My name is Daniel Thorp and I'm a Software Engineering student at the University of Ottawa, Software Developer at [The Forge VTT](https://forge-vtt.com), and incoming Engineering Release Intern at [BlackBerry](https://blackberry.com).
+My name is Daniel Thorp and I'm a 2nd year Software Engineering student at the University of Ottawa and candidate for Communications Commissioner at the [University of Ottawa Students' Union](https://seuo-uosu.com/).
 
 - 🔭 I’m currently studying for exams and leading the development team at [Hack the Hill](https://hackthehill.com)
 
-- 🌱 I’m learning about student politics and engineering management, and I'm always looking to learn new things!
+- 🌱 I’m interested in corporate law and engineering management, and I'm always looking to learn new things!
 
 - 🤝 I’m looking for **Winter 2024 internship opportunities**
 
@@ -12,7 +12,7 @@ My name is Daniel Thorp and I'm a Software Engineering student at the University
 
 - 💬 Ask me about anything related to full stack web development
 
-- 📫 Feel free to get in touch with me on Discord at **arcanist#4317**
+- 📫 Feel free to get in touch with me on Discord at **@arcanistzed**
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arcanistzed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arcanistzed)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arcanistzed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arcanistzed)
