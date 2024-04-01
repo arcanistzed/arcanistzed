@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Daniel Thorp and I'm a 2nd year Software Engineering student at the University of Ottawa and Communications Commissioner-elect at the [University of Ottawa Students' Union](https://seuo-uosu.com/).
+My name is Daniel Thorp and I'm a 2nd year Software Engineering student at the University of Ottawa and Communications Commissioner at the [University of Ottawa Students' Union](https://seuo-uosu.com/).
 
 - 🔭 I’m currently leading the development team at [Hack the Hill](https://hackthehill.com)
 
