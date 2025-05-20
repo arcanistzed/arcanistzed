@@ -6,7 +6,7 @@ My name is Daniel Thorp, and I’m a 4th-year Software Engineering student at th
 
 - 🌱 I’m passionate about full stack web development, governance, and the intersection of technology and law, and I’m always eager to learn new things!
 
-# - 🤝 I’m looking for **Summer 2025 internship opportunities**.
+<!-- - 🤝 I’m looking for **Summer 2025 internship opportunities**. -->
 
 - 👨‍💻 You can check out [my website](https://arcanist.me) and [my resume](https://arcanist.me/resume).
 
