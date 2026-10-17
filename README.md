@@ -1,6 +1,6 @@
 # Daniel Thorp
 
-I'm a final-year Software Engineering student at the University of Ottawa.
+I'm a Software Engineering student at the University of Ottawa.
 
 Learn more about my work, writing, and projects at [danielthorp.com](https://danielthorp.com).
 
