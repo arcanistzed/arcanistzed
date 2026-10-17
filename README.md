@@ -8,4 +8,11 @@ You can reach me at [daniel@danielthorp.com](mailto:daniel@danielthorp.com).
 
 ---
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=arcanistzed&show_icons=true&theme=dark&include_all_commits=true) ![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=arcanistzed&theme=dark&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=arcanistzed&show_icons=true&include_all_commits=true&theme=dark">
+  <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=arcanistzed&show_icons=true&include_all_commits=true&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=arcanistzed&layout=compact&theme=dark">
+  <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=arcanistzed&layout=compact&theme=default">
+</picture>
